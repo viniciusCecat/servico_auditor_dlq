@@ -115,16 +115,14 @@ Tabela utilizada:
 
 ## Configuracao
 
-Arquivo:
-
-- `src/main/resources/application.properties`
-
 Variaveis esperadas:
 
 - `AWS_ACCESS_KEY_ID`
 - `AWS_SECRET_ACCESS_KEY`
 - `AWS_REGION`
 - `AUDIT_DLQ_QUEUE_NAME`
+
+Essas variaveis podem ser configuradas no terminal ou na configuracao de execucao da IDE.
 
 Exemplo no PowerShell:
 
